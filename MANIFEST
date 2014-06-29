@@ -1,0 +1,12 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/WavingHands/Archive.pm
+t/data/test.config
+t/data/test_full.config
+t/00-load.t
+t/01-create_destroy.t
+t/99-cleanup.t
+t/pod-coverage.t
+t/pod.t
